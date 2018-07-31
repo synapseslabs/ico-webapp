@@ -1,0 +1,32 @@
+{
+  "name": "ico-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synapseslabs/ico-webapp.git"
+  },
+  "keywords": [
+    "synapses",
+    "market",
+    "ecommerce",
+    "ico"
+  ],
+  "author": "Alejandro Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/synapseslabs/ico-webapp/issues"
+  },
+  "homepage": "https://github.com/synapseslabs/ico-webapp#readme",
+  "dependencies": {
+    "truffle": "^4.1.13",
+    "zeppelin-solidity": "^1.11.0"
+  }
+}
